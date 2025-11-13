@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubchat", "Cubchat\Cubchat.csproj", "{179DD7B1-4061-4D8E-9F6B-B5FACBB7D4ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179DD7B1-4061-4D8E-9F6B-B5FACBB7D4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179DD7B1-4061-4D8E-9F6B-B5FACBB7D4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179DD7B1-4061-4D8E-9F6B-B5FACBB7D4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179DD7B1-4061-4D8E-9F6B-B5FACBB7D4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFC9E64-40E3-4CE9-8A47-8A4FCD00F713}
+	EndGlobalSection
+EndGlobal
